@@ -32,9 +32,10 @@ Execute: Run the tool from your terminal:
 Bash
 ```
 ./nes-talos
-```
 
 # Or 'talos' if you have aliased the binary
+```
+
 Paste: Paste the AI output into the terminal and press Enter.
 
 NES-Talos will immediately process the blocks and scaffold the files into your current directory.
